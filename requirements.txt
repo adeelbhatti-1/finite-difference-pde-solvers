@@ -1,0 +1,6 @@
+# Inferred direct dependencies; versions and compatibility have not been tested.
+ipython
+matplotlib
+numpy
+pandas
+jupyterlab
